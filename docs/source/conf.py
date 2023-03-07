@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Naasa Call Center'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
