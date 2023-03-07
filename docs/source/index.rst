@@ -37,6 +37,6 @@ Contents
 
    Agent Dashboard
    Admin Dashboard
-   Trouble Shoot
+   Trouble Shooting
 
 
